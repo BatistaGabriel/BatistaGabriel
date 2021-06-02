@@ -44,8 +44,8 @@ My name is Gabriel Batista and I'm from Brazil, I'm:
 
 <a href="https://www.linkedin.com/in/gabriel-batista-56172451" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## 🐍 Like The Good Old Times
-
+<!-- ## 🐍 Like The Good Old Times -->
+# 
 ![Snake animation](https://github.com/BatistaGabriel/BatistaGabriel/blob/output/github-contribution-grid-snake.svg)
 
 ---
