@@ -8,11 +8,11 @@ And also Rafaella Ballerini for the amazing idea on your instagram acc (which ma
 -->
 
 
-## Oh Hello There, Howdy?! <img src="https://media.tenor.com/images/8c8a55b37f02da1734085e6c8b6c1bdd/tenor.gif" width="50px">
+## Oh Hello There, Howdy?! <img src="https://media.tenor.com/images/8c8a55b37f02da1734085e6c8b6c1bdd/tenor.gif" width="20px">
 
 My name is Gabriel Batista and I'm from Brazil, I'm: 
 <br />
-- Web developer focused into the .Net stack.
+- Former focused into the .Net stack, joining in the brave new world of golang/Kotlin.
 - Interested into: 
   - secure web development.
   - web hacking. 🐱‍💻
@@ -20,7 +20,7 @@ My name is Gabriel Batista and I'm from Brazil, I'm:
   - find my own ikigai.
   - can I have a capybara as a pet?
   - is this real life?
-- Currently working remotely at Trimble Transportation LATAM.
+- Currently working remotely at Trimble Inc.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZD0iTTAgMy40NDlMOS43NSAyLjF2OS40NTFIMG0xMC45NDktOS42MDJMMjQgMHYxMS40SDEwLjk0OU0wIDEyLjZoOS43NXY5LjQ1MUwwIDIwLjY5OU0xMC45NDkgMTIuNkgyNFYyNGwtMTIuOS0xLjgwMSIvPjwvc3ZnPg==&logoColor=white&color=2bbc8a)
