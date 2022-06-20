@@ -12,7 +12,7 @@ And also Rafaella Ballerini for the amazing idea on your instagram acc (which ma
 
 My name is Gabriel Batista and I'm from Brazil, I'm: 
 <br />
-- Former focused into the .Net stack, joining in the brave new world of golang/Kotlin.
+- Former web developer focused into the .Net stack, joining in the brave new world of golang/Kotlin.
 - Interested into: 
   - secure web development.
   - web hacking. 🐱‍💻
