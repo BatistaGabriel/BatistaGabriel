@@ -8,11 +8,11 @@ And also Rafaella Ballerini for the amazing idea on your instagram acc (which ma
 -->
 
 
-## Oh Hello There, Howdy?! <img src="https://media.tenor.com/images/8c8a55b37f02da1734085e6c8b6c1bdd/tenor.gif" width="20px">
+## Oh, Hello There Howdy?! <img src="https://media.tenor.com/images/8c8a55b37f02da1734085e6c8b6c1bdd/tenor.gif" width="20px">
 
-My name is Gabriel Batista and I'm from Brazil, I'm: 
+My name is Gabriel Batista I'm from Brazil, and I'm: 
 <br />
-- Former web developer focused into the .Net stack, joining in the brave new world of golang/Kotlin.
+- Former web developer focused into the .Net stack, joining in the brave new world of Golang/Kotlin.
 - Interested into: 
   - secure web development.
   - web hacking. 🐱‍💻
@@ -24,9 +24,7 @@ My name is Gabriel Batista and I'm from Brazil, I'm:
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 <br />
-![](https://img.shields.io/badge/Tools-VS%20Code-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Android%20Studio-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
