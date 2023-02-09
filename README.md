@@ -12,15 +12,14 @@ And also Rafaella Ballerini for the amazing idea on your instagram acc (which ma
 
 My name is Gabriel Batista I'm from Brazil, and I'm: 
 <br />
-- Former web developer focused into the .Net stack, joining in the brave new world of Golang/Kotlin.
+- Web developer focused on the .Net stack and learning react. Currently working remotely.
 - Interested into: 
   - secure web development.
   - web hacking. 🐱‍💻
   - how to create a cybersecurity mindset among developers.
   - find my own ikigai.
   - can I have a capybara as a pet?
-  - is this real life?
-- Currently working remotely at Trimble Inc.
+  - figure out if this is real life.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
