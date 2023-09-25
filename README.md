@@ -21,10 +21,8 @@ My name is Gabriel Batista I'm from Brazil, and I'm:
   - can I have a capybara as a pet?
   - figure out if this is real life.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-<br />
-![](https://img.shields.io/badge/Tools-Android%20Studio-informational?style=flat&logoColor=white&color=2bbc8a)
+## 🔧 Tech Stack
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -36,9 +34,9 @@ My name is Gabriel Batista I'm from Brazil, and I'm:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatistaGabriel&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-## 📌 Contact Me
+## 📌 Socials
 
-<a href="https://www.linkedin.com/in/gabriel-batista-56172451" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batista-56172451)
 
 <!-- ## 🐍 Like The Good Old Times -->
 # 
