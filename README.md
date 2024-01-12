@@ -12,7 +12,7 @@ And also Rafaella Ballerini for the amazing idea on your instagram acc (which ma
 
 My name is Gabriel Batista I'm from Brazil, and I'm: 
 <br />
-- REST API backend developer focused, whit my main focus in .NET Core.
+- REST API backend developer, whit my main focus in .NET Core.
 - Interested into: 
   - secure web development.
   - web hacking. 🐱‍💻
