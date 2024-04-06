@@ -15,7 +15,7 @@ My name is Gabriel Batista I'm from Brazil, and I'm:
 - REST API backend developer, with my main focus in .NET Core.
 - Interested into: 
   - secure web development.
-  - web hacking. 🐱‍💻
+  - web hacking.
   - how to create a cybersecurity mindset among developers.
   - find my own ikigai.
   - figure out if this is real life.
