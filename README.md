@@ -60,24 +60,6 @@ My name is Gabriel Batista I'm from Brazil, and I'm:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batistalvesgabriel/)
 
-<!-- ## 🐍 Like The Good Old Times -->
-#![Snake animation](./dist/github-snake.svg)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./dist/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./dist/github-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="./dist/github-snake.svg"
-  />
-</picture>
-
 ---
 
 <p align='center'><i>Be More, Do Better 🔥 <br/>and Have a FANTASTIC Life</i></p>
