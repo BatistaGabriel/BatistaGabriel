@@ -64,6 +64,21 @@ My name is Gabriel Batista I'm from Brazil, and I'm:
 # 
 ![Snake animation](https://github.com/BatistaGabriel/BatistaGabriel/blob/output/github-contribution-grid-snake.svg)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/BatistaGabriel/BatistaGabriel/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/BatistaGabriel/BatistaGabriel/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/BatistaGabriel/BatistaGabriel/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ---
 
 <p align='center'><i>Be More, Do Better 🔥 <br/>and Have a FANTASTIC Life</i></p>
