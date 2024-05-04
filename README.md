@@ -61,8 +61,6 @@ My name is Gabriel Batista I'm from Brazil, and I'm:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batistalvesgabriel/)
 
 <!-- ## 🐍 Like The Good Old Times -->
-# 
-![Snake animation](https://github.com/BatistaGabriel/BatistaGabriel/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source
