@@ -58,7 +58,7 @@ My name is Gabriel Batista I'm from Brazil, and I'm:
 
 ## 📌 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batista-56172451)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/batistalvesgabriel)
 
 <!-- ## 🐍 Like The Good Old Times -->
 # 
