@@ -9,7 +9,7 @@ And also Rafaella Ballerini for the amazing idea on your instagram acc (which ma
 ## Oh, Hello There Howdy?! <img src="https://media.tenor.com/images/8c8a55b37f02da1734085e6c8b6c1bdd/tenor.gif" width="20px">  
 
 My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:  
-<br />
+
 - A former REST API backend developer, focused on .NET Core.  
 - A recent AppSec security engineer, focusing on SAST and container security.  
 - Also interested in:  
