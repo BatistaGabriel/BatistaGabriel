@@ -25,6 +25,15 @@ jobs:
       - name: Create build directory
         run: mkdir -p public
 
+      - name: Fix permissions for generated files
+        run: chmod -R u+rw dist/
+
+      - name: Recreate build directory with proper permissions
+        run: |
+          rm -rf public
+          mkdir -p public
+          chmod 777 public
+
       - name: Move generated files to build directory
         run: mv dist/* public/
 
