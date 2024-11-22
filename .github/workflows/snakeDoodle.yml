@@ -27,15 +27,16 @@ jobs:
       - name: List files in dist directory
         run: ls -l dist/
 
-      # Passo 4: Criar diretório assets (onde os arquivos serão movidos)
+      # Passo 4: Criar diretório assets com permissões adequadas
       - name: Create build directory with permissions
         run: |
           mkdir -p assets
           chmod -R 777 assets  # Garantir permissões para o diretório assets
 
-      # Passo 5: Mover os arquivos gerados do dist para assets
+      # Passo 5: Usar `sudo` para mover os arquivos para assets (garantindo permissões elevadas)
       - name: Move generated files
-        run: mv dist/* assets/
+        run: |
+          sudo mv dist/* assets/
 
       # Passo 6: Commit e push das alterações no repositório
       - name: Commit and push changes
