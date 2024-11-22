@@ -22,17 +22,22 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Fix permissions for generated files
-        run: sudo chmod -R u+rw dist/
+      - name: Debug permissions for dist and public directories
+        run: |
+          echo "Dist directory:"
+          ls -ld dist/
+          ls -l dist/
+          echo "Public directory:"
+          ls -ld public/ || echo "Public directory does not exist"
 
       - name: Recreate build directory with proper permissions
         run: |
           rm -rf public
           mkdir -p public
-          chmod 777 public
+          chmod -R 777 public
 
       - name: Move generated files to build directory
-        run: mv dist/* public/
+        run: sudo mv dist/* public/
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
