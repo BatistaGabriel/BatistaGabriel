@@ -37,7 +37,15 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BatistaGabriel&theme=dark" alt="BatistaGabriel" />
-</p>  
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img src="./assets/github-snake.svg" alt="Snake animation" />
+  </picture>
+</p>
 
 ## 📌 Socials  
 
