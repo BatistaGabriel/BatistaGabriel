@@ -19,6 +19,10 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
   - Finding my own ikigai.  
   - Figuring out if this is real life.  
 
+## 📌 Socials  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batistalvesgabriel/)  
+
 ## 🔧 I'm Familiar With  
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)<br /> 
@@ -46,11 +50,6 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
     <img src="./assets/github-snake.svg" alt="Snake animation" />
   </picture>
 </p>
-
-## 📌 Socials  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batistalvesgabriel/)  
-
 ---  
 
 <p align='center'><i>Be More, Do Better 🔥 <br />and Have a FANTASTIC Life</i></p>
