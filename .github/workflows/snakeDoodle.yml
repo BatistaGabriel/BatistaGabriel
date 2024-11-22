@@ -21,11 +21,16 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Create build directory
-        run: mkdir -p assets
+      - name: Fix permissions for generated files
+        run: chmod -R 777 dist/
+
+      - name: Create build directory with permissions
+        run: |
+          mkdir -p assets
+          chmod -R 777 assets
 
       - name: Move generated files
-        run: mv dist/* assets/
+        run: sudo mv dist/* assets/
 
       - name: Commit and push changes
         run: |
