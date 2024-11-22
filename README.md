@@ -39,9 +39,6 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BatistaGabriel&show_icons=true&locale=en&layout=compact&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gabriel's GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BatistaGabriel&theme=dark" alt="BatistaGabriel" />
-</p>
 
 <p align="center">
   <picture>
