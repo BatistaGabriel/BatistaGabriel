@@ -10,6 +10,9 @@ jobs:
     name: Update Datas
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
       - name: Snake Animation
         uses: Platane/snk@v3
         with:
@@ -18,14 +21,12 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+            
       - name: Create build directory
-        run: mkdir public
+        run: mkdir -p public
 
-      - name: Check GitHub Pages status
-        uses: crazy-max/ghaction-github-status@v3
-        with:
-          pages_threshold: major_outage
+      - name: Move generated files to build directory
+        run: mv dist/* public/
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
