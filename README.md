@@ -31,7 +31,7 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br />
 
-## 📈 GitHub Stats  
+## 📈 Stats  
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatistaGabriel&locale=en&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -47,6 +47,4 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
     <img src="./assets/github-snake.svg" alt="Snake animation" />
   </picture>
 </p>
----  
-
-<p align='center'><i>May the force be with you, live long and prosper, and don't panic!<br />Have a FANTASTIC Life! Allons-y!</i></p>
+<p align='center'><i>May the force be with you, live long and prosper, and don't panic!<br />Have a FANTASTIC Life!<br />Allons-y!</i></p>
