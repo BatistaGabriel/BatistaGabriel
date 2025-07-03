@@ -49,4 +49,4 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
 </p>
 ---  
 
-<p align='center'><i>Be More, Do Better 🔥 <br />and Have a FANTASTIC Life</i></p>
+<p align='center'><i>May the force be with you, live long and prosper, and don't panic!<br />Have a FANTASTIC Life! Allons-y!</i></p>
