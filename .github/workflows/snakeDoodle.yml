@@ -30,8 +30,10 @@ jobs:
       - name: Create assets directory
         run: mkdir -p assets
 
-      - name: Move generated files
-        run: mv dist/* assets/
+      - name: Copy generated files to assets
+        run: |
+          install -m 644 dist/github-snake.svg assets/github-snake.svg
+          install -m 644 dist/github-snake-dark.svg assets/github-snake-dark.svg
 
       - name: Commit and push changes
         run: |
