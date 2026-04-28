@@ -19,6 +19,18 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
   - Finding my own ikigai.  
   - Figuring out if this [is real life](https://youtu.be/txqiwrbYGrs?si=JysRCv9nIESoGXjB).  
 
+## 🎯 Current Focus
+
+- Building secure-by-default engineering practices for development teams.
+- Expanding AppSec coverage with SAST-first workflows.
+- Improving developer enablement for secure web development.
+
+## 🚀 Featured Projects
+
+- [clone-tabnews](https://github.com/BatistaGabriel/clone-tabnews) — implementation of the [curso.dev](https://curso.dev/) project.
+- [claudinho](https://github.com/BatistaGabriel/claudinho) — vibe-coded experiment with Claude Code.
+- [eggratercer-cuttedspoon](https://github.com/BatistaGabriel/eggratercer-cuttedspoon) — serverless URL shortener built with Java and AWS infrastructure.
+
 ## 📌 Socials  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batistalvesgabriel/)  

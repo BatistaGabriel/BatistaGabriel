@@ -1,20 +1,21 @@
-name: Generate Datas
+name: Generate Snake Animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
-    name: Update Datas
+    name: Update Snake Animation
     runs-on: ubuntu-latest
     steps:
-      # Passo 1: Fazer o checkout do repositório
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      # Passo 2: Gerar a animação do Snake
       - name: Snake Animation
         uses: Platane/snk@v3
         with:
@@ -23,29 +24,23 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Passo 3: Listar arquivos do diretório dist para diagnóstico
       - name: List files in dist directory
         run: ls -l dist/
 
-      # Passo 4: Criar diretório assets com permissões adequadas
-      - name: Create build directory with permissions
-        run: |
-          mkdir -p assets
-          chmod -R 777 assets  # Garantir permissões para o diretório assets
+      - name: Create assets directory
+        run: mkdir -p assets
 
-      # Passo 5: Usar `sudo` para mover os arquivos para assets (garantindo permissões elevadas)
       - name: Move generated files
-        run: |
-          sudo mv dist/* assets/
+        run: mv dist/* assets/
 
-      # Passo 6: Commit e push das alterações no repositório
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/github-snake.svg
-          git add assets/github-snake-dark.svg
-          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
+          git add assets/github-snake.svg assets/github-snake-dark.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update snake animation [skip ci]"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
