@@ -10,12 +10,12 @@ And also Rafaella Ballerini for the amazing idea on your instagram acc (which ma
 
 My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:  
 
-- A former senior backend developer focused on dotnet Core/Framework.  
-- A recent AppSec security engineer, focusing on SAST using Mend.  
+- Former Senior Backend Developer focused on .NET Core and .NET Framework.  
+- AppSec Security Engineer focused on SAST with Mend.  
 - Also interested in:  
   - Secure web development.  
   - Web hacking.  
-  - Creating a cybersecurity mindset among developers.  
+  - Building a cybersecurity mindset across development teams.  
   - Finding my own ikigai.  
   - Figuring out if this [is real life](https://youtu.be/txqiwrbYGrs?si=JysRCv9nIESoGXjB).  
 
@@ -37,11 +37,17 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
 
 ## 🔧 I'm Familiar With  
 
+**OS**  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)<br /> 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![NodeJs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)<br /> 
+
+**Languages & Frameworks**  
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)<br /> 
+
+**Databases**  
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)<br />
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br />
+
+**Tools**  
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br />
 
 ## 📈 Stats  
 
