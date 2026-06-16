@@ -28,8 +28,7 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
 ## 🚀 Featured Projects
 
 - [clone-tabnews](https://github.com/BatistaGabriel/clone-tabnews) — implementation of the [curso.dev](https://curso.dev/) project.
-- [claudinho](https://github.com/BatistaGabriel/claudinho) — vibe-coded experiment with Claude Code.
-- [eggratercer-cuttedspoon](https://github.com/BatistaGabriel/eggratercer-cuttedspoon) — serverless URL shortener built with Java and AWS infrastructure.
+- [fintech-miniwallet](https://github.com/BatistaGabriel/fintech-miniwallet) — A .NET 10 fintech wallet API built with Clean Architecture and CQRS.
 
 ## 📌 Socials  
 
