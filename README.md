@@ -28,7 +28,7 @@ My name is Gabriel Batista. I'm from Brazil 🇧🇷, and I'm:
 ## 🚀 Featured Projects
 
 - [clone-tabnews](https://github.com/BatistaGabriel/clone-tabnews) — implementation of the [curso.dev](https://curso.dev/) project.
-- [fintech-miniwallet](https://github.com/BatistaGabriel/fintech-miniwallet) — A .NET 10 fintech wallet API built with Clean Architecture and CQRS.
+- [fintech-miniwallet](https://github.com/BatistaGabriel/fintech-miniwallet) — A (Ongoing development) .NET 10 minimal fintech wallet API built with Clean Architecture and CQRS.
 
 ## 📌 Socials  
 
